@@ -1,0 +1,7 @@
+label: dos
+label-id: 0xf0712b19
+device: /dev/sdb
+unit: sectors
+
+
+/dev/sdb1 : start=       32768,  type=83;
